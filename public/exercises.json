@@ -1,0 +1,397 @@
+[
+  {
+    "id": 1,
+    "category": "String Manipulation",
+    "prompt": "Reverse a given string."
+  },
+  {
+    "id": 2,
+    "category": "String Manipulation",
+    "prompt": "Check if a given string is a palindrome."
+  },
+  {
+    "id": 3,
+    "category": "String Manipulation",
+    "prompt": "Count the number of vowels in a string."
+  },
+  {
+    "id": 4,
+    "category": "String Manipulation",
+    "prompt": "Find the first non-repeating character in a string."
+  },
+  {
+    "id": 5,
+    "category": "String Manipulation",
+    "prompt": "Convert a string to lowercase without using built-in functions."
+  },
+  {
+    "id": 6,
+    "category": "String Manipulation",
+    "prompt": "Remove all whitespace from a given string."
+  },
+  {
+    "id": 7,
+    "category": "String Manipulation",
+    "prompt": "Find the most frequent character in a string."
+  },
+  {
+    "id": 8,
+    "category": "String Manipulation",
+    "prompt": "Replace all spaces in a string with '%20'."
+  },
+  {
+    "id": 9,
+    "category": "String Manipulation",
+    "prompt": "Check if two strings are anagrams of each other."
+  },
+  {
+    "id": 10,
+    "category": "Bit Manipulation",
+    "prompt": "Check if a number is even or odd using bitwise operators."
+  },
+  {
+    "id": 11,
+    "category": "Bit Manipulation",
+    "prompt": "Find the only non-repeating element in an array where every other element appears twice."
+  },
+  {
+    "id": 12,
+    "category": "Bit Manipulation",
+    "prompt": "Swap two numbers without using a temporary variable."
+  },
+  {
+    "id": 13,
+    "category": "Bit Manipulation",
+    "prompt": "Count the number of 1s in the binary representation of a number."
+  },
+  {
+    "id": 14,
+    "category": "Bit Manipulation",
+    "prompt": "Toggle the kth bit of a number."
+  },
+  {
+    "id": 15,
+    "category": "Bit Manipulation",
+    "prompt": "Check if a number is a power of two."
+  },
+  {
+    "id": 16,
+    "category": "Bit Manipulation",
+    "prompt": "Find the rightmost set bit of a number."
+  },
+  {
+    "id": 17,
+    "category": "Bit Manipulation",
+    "prompt": "Multiply a number by 2 using bitwise operations."
+  },
+  {
+    "id": 18,
+    "category": "Bit Manipulation",
+    "prompt": "Find the XOR of all numbers in a given range."
+  },
+  {
+    "id": 19,
+    "category": "Arrays & Lists",
+    "prompt": "Find the largest element in an array."
+  },
+  {
+    "id": 20,
+    "category": "Arrays & Lists",
+    "prompt": "Find the second largest element in an array."
+  },
+  {
+    "id": 21,
+    "category": "Arrays & Lists",
+    "prompt": "Reverse an array in place."
+  },
+  {
+    "id": 22,
+    "category": "Arrays & Lists",
+    "prompt": "Find the sum of all elements in an array."
+  },
+  {
+    "id": 23,
+    "category": "Arrays & Lists",
+    "prompt": "Remove duplicates from an array."
+  },
+  {
+    "id": 25,
+    "category": "Arrays & Lists",
+    "prompt": "Find the maximum difference between any two elements in an array."
+  },
+  {
+    "id": 26,
+    "category": "Arrays & Lists",
+    "prompt": "Find the intersection of two arrays."
+  },
+  {
+    "id": 27,
+    "category": "Arrays & Lists",
+    "prompt": "Find the element that appears most frequently in an array."
+  },
+  {
+    "id": 28,
+    "category": "Hashing & Dictionaries",
+    "prompt": "Count the occurrences of each character in a string using a dictionary."
+  },
+  {
+    "id": 29,
+    "category": "Hashing & Dictionaries",
+    "prompt": "Check if two strings are anagrams using a hash map."
+  },
+  {
+    "id": 30,
+    "category": "Hashing & Dictionaries",
+    "prompt": "Find the first repeated character in a string using a hash set."
+  },
+  {
+    "id": 31,
+    "category": "Hashing & Dictionaries",
+    "prompt": "Find two numbers in an array that add up to a target sum using a hash map."
+  },
+  {
+    "id": 32,
+    "category": "Hashing & Dictionaries",
+    "prompt": "Check if an array contains duplicates using a hash set."
+  },
+  {
+    "id": 35,
+    "category": "Hashing & Dictionaries",
+    "prompt": "Implement a simple phone book using a dictionary."
+  },
+  {
+    "id": 42,
+    "category": "Sorting & Searching",
+    "prompt": "Implement Binary Search on a sorted array."
+  },
+  {
+    "id": 43,
+    "category": "Sorting & Searching",
+    "prompt": "Find the smallest missing number in a sorted array."
+  },
+  {
+    "id": 44,
+    "category": "Sorting & Searching",
+    "prompt": "Find the kth largest element in an array using sorting."
+  },
+  {
+    "id": 45,
+    "category": "Sorting & Searching",
+    "prompt": "Find the first occurrence of a target value in a sorted array."
+  },
+  {
+    "id": 91,
+    "category": "Control Flow",
+    "prompt": "Write a for loop to print numbers 1 to 10."
+  },
+  {
+    "id": 92,
+    "category": "Control Flow",
+    "prompt": "Use a while loop to sum the numbers from 1 to 100."
+  },
+  {
+    "id": 93,
+    "category": "Control Flow",
+    "prompt": "Write a switch statement to print the name of the day based on a number input."
+  },
+  {
+    "id": 94,
+    "category": "Control Flow",
+    "prompt": "Write an if-else statement to check if a number is positive, negative, or zero."
+  },
+  {
+    "id": 95,
+    "category": "Functions",
+    "prompt": "Write a function that returns the square of a number."
+  },
+  {
+    "id": 96,
+    "category": "Functions",
+    "prompt": "Write a function that checks if a number is divisible by 3 and 5."
+  },
+  {
+    "id": 97,
+    "category": "Functions",
+    "prompt": "Write a function that takes a name and prints 'Hello, <name>!'."
+  },
+  {
+    "id": 98,
+    "category": "Loops & Iteration",
+    "prompt": "Print the multiplication table for a number using a for loop."
+  },
+  {
+    "id": 99,
+    "category": "Loops & Iteration",
+    "prompt": "Print all even numbers between 1 and 50 using a while loop."
+  },
+  {
+    "id": 100,
+    "category": "Loops & Iteration",
+    "prompt": "Use nested loops to print a right-angled triangle of '*' characters."
+  },
+  {
+    "id": 101,
+    "category": "Arrays & Lists",
+    "prompt": "Write a program to find the index of a given number in an array."
+  },
+  {
+    "id": 102,
+    "category": "Arrays & Lists",
+    "prompt": "Count how many times a number appears in an array."
+  },
+  {
+    "id": 103,
+    "category": "Arrays & Lists",
+    "prompt": "Write a program to double each element in an array."
+  },
+  {
+    "id": 104,
+    "category": "String Manipulation",
+    "prompt": "Count how many times the letter 'a' appears in a string."
+  },
+  {
+    "id": 105,
+    "category": "String Manipulation",
+    "prompt": "Concatenate two strings without using built-in methods."
+  },
+  {
+    "id": 106,
+    "category": "String Manipulation",
+    "prompt": "Write a program to convert a string to uppercase manually."
+  },
+  {
+    "id": 107,
+    "category": "Control Flow",
+    "prompt": "Write a program that checks if a user is eligible to vote (age >= 18)."
+  },
+  {
+    "id": 108,
+    "category": "Control Flow",
+    "prompt": "Write a program that prints 'Fizz', 'Buzz', or 'FizzBuzz' for numbers 1 to 50."
+  },
+  {
+    "id": 109,
+    "category": "Control Flow",
+    "prompt": "Write a program that takes a number and prints whether it's even or odd."
+  },
+  {
+    "id": 110,
+    "category": "Functions",
+    "prompt": "Write a function that takes two numbers and returns their sum."
+  },
+  {
+    "id": 111,
+    "category": "Functions",
+    "prompt": "Write a function that returns the maximum of three numbers."
+  },
+  {
+    "id": 112,
+    "category": "Loops & Iteration",
+    "prompt": "Write a program that prints the factorial of a number using a for loop."
+  },
+  {
+    "id": 113,
+    "category": "Loops & Iteration",
+    "prompt": "Use a loop to find the greatest common divisor (GCD) of two numbers."
+  },
+  {
+    "id": 114,
+    "category": "Loops & Iteration",
+    "prompt": "Write a program to count the digits of a given number."
+  },
+  {
+    "id": 115,
+    "category": "Arrays & Lists",
+    "prompt": "Write a program to copy all elements from one array to another."
+  },
+  {
+    "id": 116,
+    "category": "Arrays & Lists",
+    "prompt": "Write a program to insert an element at a specific position in an array."
+  },
+  {
+    "id": 117,
+    "category": "String Manipulation",
+    "prompt": "Write a program to count uppercase and lowercase letters in a string."
+  },
+  {
+    "id": 118,
+    "category": "String Manipulation",
+    "prompt": "Write a program to remove a specific character from a string."
+  },
+  {
+    "id": 119,
+    "category": "String Manipulation",
+    "prompt": "Write a program to replace all vowels in a string with '*'."
+  },
+  {
+    "id": 120,
+    "category": "Object-Oriented Programming",
+    "prompt": "Create a class called 'Person' with properties for name and age."
+  },
+  {
+    "id": 121,
+    "category": "Object-Oriented Programming",
+    "prompt": "Add a method to the 'Person' class that prints a greeting."
+  },
+  {
+    "id": 122,
+    "category": "Object-Oriented Programming",
+    "prompt": "Create a class called 'Rectangle' with methods to calculate area and perimeter."
+  },
+  {
+    "id": 123,
+    "category": "Object-Oriented Programming",
+    "prompt": "Create a class 'Student' that inherits from 'Person' and adds a grade attribute."
+  },
+  {
+    "id": 124,
+    "category": "Object-Oriented Programming",
+    "prompt": "Create a class with a constructor that initializes three attributes."
+  },
+  {
+    "id": 125,
+    "category": "Object-Oriented Programming",
+    "prompt": "Write a class with a method that overrides a method from a parent class."
+  },
+  {
+    "id": 126,
+    "category": "Object-Oriented Programming",
+    "prompt": "Demonstrate encapsulation by using private variables and public getter/setter methods."
+  },
+  {
+    "id": 127,
+    "category": "Recursion",
+    "prompt": "Write a recursive function to calculate the factorial of a number."
+  },
+  {
+    "id": 128,
+    "category": "Recursion",
+    "prompt": "Write a recursive function to compute the nth Fibonacci number."
+  },
+  {
+    "id": 129,
+    "category": "Recursion",
+    "prompt": "Write a recursive function to sum the elements of an array."
+  },
+  {
+    "id": 130,
+    "category": "Recursion",
+    "prompt": "Write a recursive function to reverse a string."
+  },
+  {
+    "id": 131,
+    "category": "Recursion",
+    "prompt": "Write a recursive function to count the digits of a number."
+  },
+  {
+    "id": 132,
+    "category": "Recursion",
+    "prompt": "Write a recursive function to check if a string is a palindrome."
+  },
+  {
+    "id": 133,
+    "category": "Recursion",
+    "prompt": "Write a recursive function to calculate the power of a number (base^exp)."
+  }
+]
