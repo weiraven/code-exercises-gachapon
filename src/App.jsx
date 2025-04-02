@@ -12,7 +12,7 @@ function App() {
 
   useEffect(() => {
     const ac = new AbortController();
-    fetch('/exercises.json')
+    fetch(import.meta.env.BASE_URL + 'exercises.json')
       .then(res => res.json())
       .then(data => setExercises(data));
     
