@@ -1,9 +1,6 @@
 import './App.css'
 import { useState, useEffect, useRef } from 'react'
 
-// Exercise categories:
-// String Manipulation, Bit Manipulation, Arrays & Lists, Hashing & Dictionaries, Sorting & Searching, Stacks, Queues, Linked Lists, Binary Trees, Two Pointer
-
 function App() {
   const [exercises, setExercises] = useState([]);
   const [drawnExercises, setDrawnExercises] = useState([]);
@@ -78,7 +75,7 @@ function App() {
             </option>
           ))}
         </select>
-        <img src="images/gachapon_machine.gif" alt="Gachapon Machine"
+        <img src={import.meta.env.BASE_URL + "images/gachapon_machine.gif"} alt="Gachapon Machine"
           onClick={getRandomExercise}
         />
       </div> 
