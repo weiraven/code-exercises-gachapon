@@ -393,5 +393,90 @@
     "id": 133,
     "category": "Recursion",
     "prompt": "Write a recursive function to calculate the power of a number (base^exp)."
+  },
+ {
+    "id": 134,
+    "category": "String Manipulation",
+    "prompt": "Count the number of words in a given sentence."
+  },
+  {
+    "id": 135,
+    "category": "Arrays & Lists",
+    "prompt": "Rotate an array by k positions to the right."
+  },
+  {
+    "id": 136,
+    "category": "Arrays & Lists",
+    "prompt": "Merge two sorted arrays into one sorted array."
+  },
+  {
+    "id": 137,
+    "category": "Hashing & Dictionaries",
+    "prompt": "Group anagrams from a list of strings."
+  },
+  {
+    "id": 138,
+    "category": "Functions",
+    "prompt": "Write a function that determines if a number is prime."
+  },
+  {
+    "id": 139,
+    "category": "Sorting & Searching",
+    "prompt": "Implement Linear Search to find an element in an unsorted array."
+  },
+  {
+    "id": 140,
+    "category": "Object-Oriented Programming",
+    "prompt": "Create a 'BankAccount' class with methods for deposit, withdrawal, and checking balance."
+  },
+  {
+    "id": 141,
+    "category": "Recursion",
+    "prompt": "Write a recursive function to calculate the sum of digits of a number."
+  },
+  {
+    "id": 142,
+    "category": "Bit Manipulation",
+    "prompt": "Clear the last k bits of a number using bitwise operations."
+  },
+  {
+    "id": 143,
+    "category": "Loops & Iteration",
+    "prompt": "Calculate the sum of squares of numbers from 1 to n using a loop."
+  },
+  {
+    "id": 144,
+    "category": "String Manipulation",
+    "prompt": "Find the longest word in a given sentence."
+  },
+  {
+    "id": 145,
+    "category": "Arrays & Lists",
+    "prompt": "Find the missing number in an unsorted array containing numbers from 1 to n where one number is missing."
+  },
+  {
+    "id": 146,
+    "category": "Hashing & Dictionaries",
+    "prompt": "Count the frequency of each word in a given paragraph using a dictionary."
+  },
+  {
+    "id": 147,
+    "category": "Control Flow",
+    "prompt": "Write a program that prints all prime numbers between 1 and n."
+  },
+  {
+    "id": 148,
+    "category": "Functions",
+    "prompt": "Write a recursive function to compute the binomial coefficient (n choose k)."
+  },
+  {
+    "id": 149,
+    "category": "Loops & Iteration",
+    "prompt": "Write a program to generate the first n numbers of the Fibonacci sequence using iteration."
+  },
+  {
+    "id": 150,
+    "category": "Object-Oriented Programming",
+    "prompt": "Design a 'Calculator' class that performs basic arithmetic operations (addition, subtraction, multiplication, division)."
   }
 ]
